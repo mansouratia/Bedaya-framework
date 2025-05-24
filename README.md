@@ -40,7 +40,7 @@ Bedaya/
 │   ├── runners/             # TestNG & WebDriver runners
 │   └── utils/               # Browser drivers, helpers, and JSON handlers
 ├── resources/               # FXML UI layout and icons
-├── suits/               # Saved JSON test case files
+├── suits/                   # Saved JSON test case files
 ├── pom.xml                  # Maven build file
 └── README.md
 ```
