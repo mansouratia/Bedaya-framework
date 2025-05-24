@@ -40,7 +40,7 @@ Bedaya/
 │   ├── runners/             # TestNG & WebDriver runners
 │   └── utils/               # Browser drivers, helpers, and JSON handlers
 ├── resources/               # FXML UI layout and icons
-├── testcases/               # Saved JSON test case files
+├── suits/               # Saved JSON test case files
 ├── pom.xml                  # Maven build file
 └── README.md
 ```
@@ -51,7 +51,7 @@ Bedaya/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/bedaya-automation-framework.git
+git clone https://github.com/mansouratia/Bedaya-framework.git
 cd bedaya-automation-framework
 ```
 
@@ -93,10 +93,10 @@ Report
 
 ---
 
-## 🗺 Roadmap
+## 🗺 future Roadmap
 
 - [ ] Add Drag-and-Drop support for reordering steps
-- [ ] Allure or HTML-based report generation
+- [ ] Allure based report generation
 - [ ] Expand Security Test Mode (SQL Injection simulation)
 - [ ] Mobile Web Testing support (Appium integration)
 - [ ] CI/CD integration support
@@ -107,12 +107,6 @@ Report
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to fork the repo and open a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
